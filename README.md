@@ -14,6 +14,9 @@ This project sets up an **API Gateway** capable of handling **100K+ requests per
 - **Setup Auth with LUA**  JWT verification
 - **Setup Rate Limit with LUA**
 - **Test Results** Post Test Results
+- **Connection Pooling**
+- **Caching**
+- **Payload Compression**
 
 
 ### Setup & Deployment
